@@ -1,3 +1,1 @@
-Hello folks.
-
-#test-guide
+Hello World.
